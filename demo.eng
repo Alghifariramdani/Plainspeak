@@ -1,0 +1,22 @@
+Note that this program demonstrates the basic features of Plainspeak.
+Let the score be 0.
+Add 10 and 5 and call it the score.
+Print the score.
+If the score is greater than 10, start doing the following.
+Print The score is high.
+Otherwise, start doing the following.
+Print The score is low.
+Stop doing that.
+Let the counter be 0.
+Repeat 5 times, start doing the following.
+Increase the counter by 1.
+Print the counter.
+Stop doing that.
+Let the total be 0.
+Let the n be 1.
+While the n is less than or equal to 5, start doing the following.
+Add the total and the n and call it the total.
+Increase the n by 1.
+Stop doing that.
+Print The running total is now ready.
+Print the total.

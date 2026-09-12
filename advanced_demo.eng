@@ -1,0 +1,36 @@
+Note that this program shows off the advanced Plainspeak features.
+To find the factorial with n, do the following.
+If n is less than or equal to 1, start doing the following.
+Return 1.
+Stop doing that.
+Subtract 1 from n and call it m.
+Call find the factorial with m and call it sub_result.
+Multiply n and sub_result and call it the result.
+Return the result.
+That is the end of find the factorial.
+Call find the factorial with 6 and call it answer.
+Print Six factorial is:.
+Print the answer.
+Let the fruits be an empty list.
+Add apple to the fruits.
+Add banana to the fruits.
+Add cherry to the fruits.
+Print All the fruits:.
+For each fruit in the fruits, start doing the following.
+Print fruit.
+Stop doing that.
+Let the size be the length of the fruits.
+Print The number of fruits is:.
+Print the size.
+Let a be 8.
+Let b be 3.
+If a is greater than 5 and b is less than 10, start doing the following.
+Print Both conditions held at once.
+Stop doing that.
+Find the remainder of 17 divided by 5 and call it r.
+Raise 2 to the power of 8 and call it p.
+Print The remainder and the power were:.
+Print r.
+Print p.
+Make plainspeak uppercase and call it shout.
+Print shout.
